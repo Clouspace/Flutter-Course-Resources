@@ -15,8 +15,6 @@
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
 
-
-
 ## Section 3: I Am Rich - How to Create Flutter Apps from Scratch
 
 * [Material Design](https://material.io/)
